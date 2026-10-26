@@ -1,0 +1,5 @@
+modelo,procesador,pantalla,almacenamiento,bateria_mah,carga_w,resistencia,precio_usd,garantia_meses,fecha_lanzamiento
+dPhone D1,Helios G1M Neural Chip (5nm),6.5" Super-AMOLED Infinity (1-144Hz),512GB,5500,60,IP69 + Hydro-Guard,999,24,2028-03-28
+dPhone D1 Lite,Helios G1 Lite (6nm),6.1" AMOLED (120Hz),256GB,4500,45,IP68,699,24,2028-05-15
+dPhone D1 Pro,Helios G1M Pro (5nm),6.8" Super-AMOLED (1-144Hz),1TB,6000,80,IP69 + Hydro-Guard,1299,24,2028-04-10
+dPhone D1 Fold,Helios G1M Neural Chip (5nm),7.9" Interna + 6.3" Externa AMOLED,512GB,5000,60,IPX8,1899,24,2028-06-01
