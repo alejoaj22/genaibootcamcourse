@@ -1,0 +1,11 @@
+query_id,query_text,relevance_keywords,categoria
+Q01,"Which phone has the highest ingress protection rating?","IP69","especificacion_tecnica"
+Q02,"What processor powers the dPhone D1?","Helios|Helios G1M","componente_hardware"
+Q03,"Which operating system runs apps from Android and iOS?","Fluid OS|Fluid","software_ecosistema"
+Q04,"Tell me about the Halo camera in dPhone","Halo","camara_multimedia"
+Q05,"Does the phone support emergency satellite messaging?","Satellite|Satellite SOS","conectividad_seguridad"
+Q06,"What is the battery capacity and charging rate of dPhone D1?","5,500|60W","bateria_autonomia"
+Q07,"Is the chassis made from recycled titanium?","titanium|recycled titanium","materiales_sostenibilidad"
+Q08,"What biometric security technology is available under the display?","Vein-Scan|Vein","biometria_seguridad"
+Q09,"What is the screen refresh rate of the Infinity Display?","144Hz|1Hz to 144Hz","pantalla_display"
+Q10,"What is the thermal efficiency percentage of dPhone D1?","92%|liquid-cooling|thermal","rendimiento_termico"
