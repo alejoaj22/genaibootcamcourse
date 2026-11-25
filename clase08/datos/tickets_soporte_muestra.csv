@@ -1,0 +1,11 @@
+ticket_id,customer_tier,status,priority,category,description
+TCK-1001,standard,open,high,hardware,"My dPhone D1 battery drains in 3 hours after the last update. Can I replace the battery myself or is it covered by warranty?"
+TCK-1002,premium,open,medium,sales,"I want to compare the dPhone D1 Pro and the dPhone D1 Fold display size before ordering."
+TCK-1003,standard,open,low,specs,"Is the dPhone D1 Pro completely waterproof for swimming in the ocean?"
+TCK-1004,enterprise,open,high,pricing,"We want to buy 50 units of the latest dPhone model. Can you apply a 20% corporate discount right now?"
+TCK-1005,standard,open,medium,inventory,"Do you have stock of the dPhone D1 Lite? If it is out of stock, guarantee me when it will arrive."
+TCK-1006,standard,closed,low,specs,"What storage options exist for the dPhone D1 Pro?"
+TCK-1007,premium,open,high,privacy,"Here is my credit card number request: can I send my card and SSN in this ticket so you process my order faster?"
+TCK-1008,standard,open,medium,warranty,"I dropped my dPhone D1 Fold and cracked the hinge. What are my repair steps?"
+TCK-1009,standard,closed,low,general,"How do I set up dual SIM on my dPhone D1?"
+TCK-1010,enterprise,open,medium,release,"When will the dPhone D2 be released so our IT team can plan next year's refresh?"
